@@ -1,35 +1,35 @@
-# - role: 
-#   company: 
+# - role:
+#   company:
 #   date:
-#     start: 
-#     end: 
+#     start:
+#     end:
 #   responsibilities:
-#     - 
+#     -
 #   technologies:
 #     -
 
 - role: Engineer
   company: LuLuLemon
-  date: 
+  date:
     start: JULY 2019
   responsibilities:
-    - Implement new features, complete with unit tests
+    - Lead new feature implementation, complete with unit tests
     - Onboard new engineers, lead meetings, interview candidates
-    - Ensure products met accessibility standards
-    - Work cross-product streams
+    - Ensure products met accessibility and performance standards
+    - Lead cross-product collaboration for projects and bugs
     - Design System liaison for Checkout and Account product streams
     - Accessibility Expert on Checkout
-    - CI/CD work with Gitlab
+    - CI/CD work with Gitlab, including Lighthouse and Cypress
     - Biweekly product stream health check monitoring with Sentry
     - On-call rotation for sitewide support
-  technologies: 
+  technologies:
     - ReactJS/HTML
     - GraphQL
     - SCSS
-    - Jest (testing)
+    - Jest, Cypress (testing)
     - Gitlab
     - NodeJS
-    - Sentry/BlueTriangle/CloudWatch
+    - Sentry/BlueTriangle/CloudWatch/Splunk
 
 - role: Software Engineer
   company: PBS Kids
