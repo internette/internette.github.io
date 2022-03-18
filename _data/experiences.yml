@@ -16,12 +16,13 @@
     - Lead new feature implementation, complete with unit tests
     - Onboard new engineers, lead meetings, interview candidates
     - Ensure products met accessibility and performance standards
-    - Lead cross-product collaboration for projects and bugs
+    - Lead cross-product projects and bugs
     - Design System liaison for Checkout and Account product streams
     - Accessibility Expert on Checkout
     - CI/CD work with Gitlab, including Lighthouse and Cypress
-    - Biweekly product stream health check monitoring with Sentry
+    - Biweekly dev ops rotation using Sentry and AWS
     - On-call rotation for sitewide support
+    - Increased adoption and contribution of org-wide code projects
   technologies:
     - ReactJS/HTML
     - GraphQL
@@ -30,6 +31,7 @@
     - Gitlab
     - NodeJS
     - Sentry/BlueTriangle/CloudWatch/Splunk
+    - AWS
 
 - role: Software Engineer
   company: PBS Kids
