@@ -19,18 +19,18 @@
     - Lead cross-product projects and bugs
     - Design System liaison for Checkout and Account product streams
     - Accessibility Expert on Checkout
-    - CI/CD work with Gitlab, including Lighthouse and Cypress
-    - Biweekly dev ops rotation using Sentry and AWS
+    - CI/CD work with Github and Gitlab, including Lighthouse and Cypress
+    - Biweekly dev ops rotation using Cloudwatch, Splunk, and Sentry
     - On-call rotation for sitewide support
-    - Increased adoption and contribution of org-wide code projects
+    - Increased adoption and contribution of org-wide code projects, including Pattern Library migration
   technologies:
     - ReactJS/HTML
     - GraphQL
     - SCSS
     - Jest, Cypress (testing)
-    - Gitlab
+    - Github, Gitlab
     - NodeJS
-    - Sentry/BlueTriangle/CloudWatch/Splunk
+    - Sentry,BlueTriangle,CloudWatch,Splunk
     - AWS
 
 - role: Software Engineer
