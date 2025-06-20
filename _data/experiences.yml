@@ -14,7 +14,7 @@
     start: JULY 2019
     end: SEPT 2024
   responsibilities:
-    - Lead new React-based feature implementation, complete with unit tests
+    - Lead new React-based feature implementation, complete with Jest-based unit tests
     - Onboard new engineers, lead meetings, interview candidates
     - Ensure products met accessibility and performance standards
     - Lead cross-product projects and bugs
