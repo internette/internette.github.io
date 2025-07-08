@@ -8,7 +8,7 @@
 #   technologies:
 #     -
 
-- role: Software Engineer
+- role: Software Engineer II
   company: LuLuLemon
   date:
     start: JULY 2019
@@ -83,7 +83,7 @@
     - TeamCity
     - JasmineJS
 
-- role: Developer/Designer
+- role: Developer
   company: CEB
   date:
     start: AUG 2014
@@ -101,21 +101,3 @@
     - HTML
     - SCSS/CSS
     - TeamShare/Adobe Experience Manager
-
-- role: Designer
-  company: Sustainable Campus
-  date:
-    start: OCT 2012
-    end: MAY 2014
-  responsibilities:
-    - Logo redesign for Office of Student Sustainability rebrand
-    - Informational poster designs for events and environmental holidays
-    - Design of informational booklet on living green in Tallahassee
-    - Create an interactive room on how to live eco-friendly on campus
-    - Multiple photo modification for a student lead, school funded project
-  technologies:
-    - JavaScript/jQuery
-    - Photoshop
-    - HTML
-    - CSS
-    - Windows/OSX
