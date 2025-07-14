@@ -14,16 +14,13 @@
     start: JULY 2019
     end: SEPT 2024
   responsibilities:
-    - Lead new React-based feature implementation, complete with Jest-based unit tests
-    - Onboard new engineers, lead meetings, interview candidates
-    - Ensure products met accessibility and performance standards
-    - Lead cross-product projects and bugs
-    - Design System liaison for Checkout and Account product streams
-    - Accessibility Expert on Checkout
-    - CI/CD work with Github and Gitlab, including Lighthouse and Cypress
-    - Biweekly dev ops rotation using Cloudwatch, Splunk, and Sentry
-    - On-call rotation for sitewide support
-    - Increased adoption and contribution of org-wide code projects, including Pattern Library migration
+    - Led implementation of new React-based features with comprehensive Jest test coverage.
+    - Served as Design System liaison across Checkout and Account teams.
+    - Conducted accessibility audits and ensured WCAG compliance.
+    - Increased adoption of org-wide code projects, including Pattern Library migration.
+    - Acted as on-call engineer for production support; used tools such as Cloudwatch, Splunk, and Sentry.
+    - Improved CI/CD pipelines using GitHub/GitLab, Lighthouse, and Cypress.
+    - Mentored junior engineers, led team meetings, and interviewed candidates.
   technologies:
     - ReactJS/HTML
     - GraphQL
@@ -40,16 +37,10 @@
     start: MAY 2017
     end: MAY 2019
   responsibilities:
-    - Created producer sites with Craft CMS using any combination of Twig, PHP, and frameworks including React and Vue, including <a href="https://www.pbs.org/parents/rogers" target="_blank">Mister Rogers</a> and <a href="https://www.pbs.org/parents">PBS Kids for Parents</a>
-    - Debugged JavaScript-based games
-    - Constructed and converted front-end build systems
-    - Implemented branded JavaScript-based game-building tools, including logging panel
-    - Lead development across multiple projects
-    - Built out producer-consumed internal tools with cutting-edge technology
-    - Regularly implemented and maintained documentation
-    - Expanded pre-existing APIs and implementing new endpoints in PHP
-    - Implemented GraphQL for pre-existing PHP-based APIs and Elastic Search technologies
-    - Ensure products met accessibility standards and conducted accessibility audits
+    - Developed interactive producer sites using Craft CMS, React, Vue, PHP, and Twig.
+    - Debugged and optimized JavaScript-based games.
+    - Built internal tools and expanded PHP-based APIs; introduced GraphQL and ElasticSearch.
+    - Ensured accessibility standards and led audits.
   technologies:
     - JavaScript (Vanilla, Node)
     - GraphQL
@@ -67,12 +58,9 @@
     start: APR 2016
     end: FEB 2017
   responsibilities:
-    - Ported features from Angular 1 to Angular 2
-    - Built out Angular 1 features with semantic HTML, JavaScript, and CSS
-    - Implemented features end to end (frontend and backend)
-    - Ensured every feature had full test coverage using Jasmine
-    - Worked with lead designer to ensure quality product designs and brand continuity
-    - Integrated Angular 2 into build chain through rake task
+    - Ported features from Angular 1 to Angular 2; integrated Angular 2 into existing build chain.
+    - Wrote semantic HTML, CSS, and JavaScript with full Jasmine test coverage.
+    - Collaborated with designers to deliver responsive, branded user interfaces.
   technologies:
     - jQuery
     - JavaScript (ES5/ES6)
@@ -89,12 +77,9 @@
     start: AUG 2014
     end: APR 2016
   responsibilities:
-    - Every project was supported from IE8+
-    - Built and updated client sites based on mock ups through JavaScript, HTML and CSS/SCSS
-    - Interacted with clients and team regularly about projects
-    - Main JavaScript developer on team
-    - Modified responsive code and converted pages to be responsive across multiple devices
-    - Lead CSS conversion, custom JavaScript implementation, and debugging throughout CMS transition
+    - Maintained and enhanced client websites using JavaScript, HTML, CSS/SCSS.
+    - Led responsive design initiatives and CMS transitions.
+    - Acted as lead JavaScript developer and client liaison.
   technologies:
     - JavaScript/jQuery
     - Photoshop/Illustrator
