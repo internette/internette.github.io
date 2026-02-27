@@ -30,6 +30,7 @@
     - NodeJS
     - Sentry,BlueTriangle,CloudWatch,Splunk
     - AWS
+    - NextJS
 
 - role: Software Engineer
   company: PBS Kids
