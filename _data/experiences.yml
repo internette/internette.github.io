@@ -14,7 +14,7 @@
     start: JULY 2019
     end: SEPT 2024
   responsibilities:
-    - Led implementation of new React-based features with comprehensive Jest test coverage.
+    - Led implementation of new React and NextJS-based features with comprehensive Jest test coverage.
     - Served as Design System liaison across Checkout and Account teams.
     - Conducted accessibility audits and ensured WCAG compliance.
     - Increased adoption of org-wide code projects, including Pattern Library migration.
