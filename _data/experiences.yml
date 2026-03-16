@@ -15,12 +15,10 @@
     end: SEPT 2024
   responsibilities:
     - Led implementation of new React and NextJS-based features with comprehensive Jest test coverage.
-    - Served as Design System liaison across Checkout and Account teams.
-    - Conducted accessibility audits and ensured WCAG compliance.
-    - Increased adoption of org-wide code projects, including Pattern Library migration.
+    - Served as Storybook-based Design System liaison across Checkout and Account teams.
+    - Conducted accessibility audits and ensured WCAG compliance through Google Lighthouse audits.
     - Acted as on-call engineer for production support; used tools such as Cloudwatch, Splunk, and Sentry.
     - Improved CI/CD pipelines using GitHub/GitLab, Lighthouse, and Cypress.
-    - Mentored junior engineers, led team meetings, and interviewed candidates.
   technologies:
     - ReactJS/HTML
     - GraphQL
