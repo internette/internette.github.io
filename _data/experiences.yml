@@ -8,6 +8,17 @@
 #   technologies:
 #     -
 
+- role: Software Engineer
+  company: XFactor (Ongoing personal project)
+  date:
+    start: JAN 2025
+    end: PRESENT
+  responsibilities:
+    - Developed features using Copilot (AI), React, and NextJS.
+    - Implemented Jest-based unit tests.
+    - Implemented APIs with Redis and NodeJS.
+    - Initialized design system with Storybook, React, and SCSS.
+
 - role: Software Engineer II
   company: LuLuLemon
   date:
