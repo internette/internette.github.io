@@ -14,7 +14,7 @@
     start: JAN 2025
     end: PRESENT
   responsibilities:
-    - Developed features using Copilot (AI), React, and NextJS.
+    - Developed features using Copilot (AI), React, TypeScript,and NextJS.
     - Implemented Jest-based unit tests.
     - Implemented APIs with Redis and NodeJS.
     - Initialized design system with Storybook, React, and SCSS.
@@ -25,8 +25,9 @@
     start: JULY 2019
     end: SEPT 2024
   responsibilities:
-    - Led implementation of new React and NextJS-based features with comprehensive Jest test coverage.
+    - Led implementation of new React, TypeScript, and NextJS-based features with comprehensive Jest test coverage.
     - Served as Storybook-based Design System liaison across Checkout and Account teams.
+    - Wrote APIs using GraphQL
     - Conducted accessibility audits and ensured WCAG compliance through Google Lighthouse audits.
     - Acted as on-call engineer for production support; used tools such as Cloudwatch, Splunk, and Sentry.
     - Improved CI/CD pipelines using GitHub/GitLab, Lighthouse, and Cypress.
