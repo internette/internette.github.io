@@ -48,11 +48,11 @@
       color: #FFF;
       line-height: 1;
     }
-    &.divider-img {
-      float: none;
-      left: 50%;
-      transform: translateX(-50%);
-    }
+  }
+  .post-img.divider-img {
+    float: none;
+    left: 50%;
+    transform: translateX(-50%);
   }
   p {
     font-size: 1em;
