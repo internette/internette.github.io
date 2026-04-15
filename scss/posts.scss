@@ -56,4 +56,9 @@
     border: 1px solid #9b9b9b;
     padding: 0.5rem;
   }
+  &.divider-img {
+    float: none;
+    left: 50%;
+    transform: translateX(-50%);
+  }
 }
