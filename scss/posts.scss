@@ -14,7 +14,7 @@
       margin-top: 0;
     }
   }
-  :not(ol):not(ul) p:first-of-type::first-letter {
+  p:first-of-type::first-letter {
     float: left; 
     color: #f8cbcb; 
     font-size: 4em; 
