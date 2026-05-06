@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "It's GO Time - Learning Go Fundamentals"
+title:  "Let's GO Girls - Learning Go Fundamentals"
 permalink: /learning-go-fundamentals/
 date:   '2026-05-05'
 categories: home blog
