@@ -18,6 +18,7 @@ When I worked with Claude to develop a lesson plan, I made sure to include a wee
 - Where does it live?
 - How do I read and transform it?
 - How does it get displayed?
+
 That became my action plan: output → persistence → commands → refinement.
 
 ## Building the CLI
