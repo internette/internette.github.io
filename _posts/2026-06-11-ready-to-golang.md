@@ -4,7 +4,7 @@ title:  "Ready to Golang - My First Go API"
 permalink: /my-first-golang-endpoint/
 date:   '2026-06-11'
 categories: home blog
-excerpt: "In Phase 2, I built a Cobra-CLI logbook as a central portfolio navigator for my Go repo, then added two algorithms — a flag-driven word frequency analyzer and a largest sum solver pulled from a real interview. The biggest lesson: arrays and slices are not the same thing in Go, and the standard library handles far more than her JavaScript instincts expected."
+excerpt: "In this phase of my Go learning journey, I built my first API endpoint by following a deliberate progression from reading mock data to a live Redis-backed service, focusing on understanding each piece rather than simply getting it working. The experience reinforced the value of planning, incremental complexity, and intentional learning, while highlighting how infrastructure challenges can be just as important as application code."
 ---
 I have written APIs before. JavaScript, mostly. They worked. That has been enough.
 
