@@ -2,7 +2,7 @@
 layout: post
 title:  "Here She Go(lang)es again - Algorithms in Go"
 permalink: /algorithms-in-go/
-date:   '2026-05-05'
+date:   '2026-05-19'
 categories: home blog
 excerpt: "In Phase 2, I built a Cobra-CLI logbook as a central portfolio navigator for my Go repo, then added two algorithms — a flag-driven word frequency analyzer and a largest sum solver pulled from a real interview. The biggest lesson: arrays and slices are not the same thing in Go, and the standard library handles far more than her JavaScript instincts expected."
 ---
