@@ -14,31 +14,29 @@
     start: JAN 2025
     end: PRESENT
   responsibilities:
-    - Developed features using Copilot (AI), React, TypeScript,and NextJS.
-    - Implemented Jest-based unit tests.
-    - Implemented APIs with Redis and NodeJS.
-    - Initialized design system with Storybook, React, and SCSS.
-
+    - Developed full-stack features using Copilot (AI), TypeScript, React, NodeJS, and Redis.
+    - Led the implementation of the app redesign, which introduced NextJS.
+    - Led the creation and adoption of the design system with Storybook and React.
+    - Introduced AI skills for streamlining front-end development, including migrating components to the design system.
 - role: Software Engineer II
   company: LuLuLemon
   date:
     start: JULY 2019
     end: SEPT 2024
   responsibilities:
-    - Led implementation of new React, TypeScript, and NextJS-based features with comprehensive Jest test coverage.
+    - Led implementation of new features using React, TypeScript, NextJS, and GraphQL with comprehensive Jest test coverage.
     - Served as Storybook-based Design System liaison across Checkout and Account teams.
-    - Wrote APIs using GraphQL
-    - Conducted accessibility audits and ensured WCAG compliance through Google Lighthouse audits.
-    - Acted as on-call engineer for production support; used tools such as Cloudwatch, Splunk, and Sentry.
-    - Improved CI/CD pipelines using GitHub/GitLab, Lighthouse, and Cypress.
+    - Conducted accessibility audits and ensured WCAG compliance by introducing Google Lighthouse audits into build pipeline.
+    - Participated in on-call for production support; used tools such as Cloudwatch, Splunk, and Sentry.
+    - Led implementation of E2E testing with Cypress and onboarded QA Engineers to maintain.
   technologies:
     - ReactJS/HTML
     - GraphQL
     - SCSS
-    - Jest, Cypress (testing)
+    - Jest, Cypress
     - Github, Gitlab
     - NodeJS
-    - Sentry,BlueTriangle,CloudWatch,Splunk
+    - Sentry, BlueTriangle, CloudWatch, Splunk
     - AWS
     - NextJS
 
@@ -53,13 +51,12 @@
     - Built internal tools and expanded PHP-based APIs; introduced GraphQL and ElasticSearch.
     - Ensured accessibility standards and led audits.
   technologies:
-    - JavaScript (Vanilla, Node)
+    - Vue, React, JavaScript
     - GraphQL
     - PHP
     - CraftCMS
     - HTML
-    - JavaScript Frameworks (Vue, React)
-    - HTML Frameworks (Pug, Twig, Handlebars)
+    - Pug, Twig, Handlebars
     - CSS/SCSS
     - AWS Technologies (ElasticSearch, S3, ParameterStore)
 
