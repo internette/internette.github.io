@@ -14,21 +14,22 @@
     start: JAN 2025
     end: PRESENT
   responsibilities:
-    - Developed full-stack features using Copilot (AI), TypeScript, React, NodeJS, and Redis.
-    - Led the implementation of the app redesign, which introduced NextJS.
-    - Led the creation and adoption of the design system with Storybook and React.
-    - Introduced AI skills for streamlining front-end development, including migrating components to the design system.
+    - Led design system architecture and cross-team adoption as the sole frontend specialist on a backend-heavy engineering team — establishing component standards, documentation, and contribution patterns from the ground up.
+    - Owned and shipped a full application redesign, introducing Next.js and migrating the existing codebase to align with the new design system.
+    - Drove AI-assisted frontend workflows using Copilot, accelerating component development and design system migration across the team.
+    - Built full-stack features in TypeScript, React, and Node.js with Redis integration, collaborating closely with backend-focused engineers to own the frontend layer end to end.
 - role: Software Engineer II
   company: LuLuLemon
   date:
     start: JULY 2019
     end: SEPT 2024
   responsibilities:
-    - Led implementation of new features using React, TypeScript, NextJS, and GraphQL with comprehensive Jest test coverage.
-    - Served as Storybook-based Design System liaison across Checkout and Account teams.
-    - Conducted accessibility audits and ensured WCAG compliance by introducing Google Lighthouse audits into build pipeline.
-    - Participated in on-call for production support; used tools such as Cloudwatch, Splunk, and Sentry.
-    - Led implementation of E2E testing with Cypress and onboarded QA Engineers to maintain.
+    - Served as Design System liaison across Checkout and My Bag teams, introducing epic-level design system change tracking to proactively reduce tech debt and keep a 15+ component library aligned across teams.
+    - Led E2E testing initiative using Cypress — mentored a junior engineer through implementation and owned the full handoff to QA, including documentation and onboarding.
+    - Maintained 75% test coverage across Checkout and My Bag with Jest; championed testing culture on a 5-person team within a 3-team org.
+    - Conducted accessibility audits and introduced Google Lighthouse into the CI/CD pipeline, ensuring ongoing WCAG compliance without manual intervention.
+    - Participated in on-call rotation with full incident ownership — responding to production issues, writing postmortems, and maintaining runbooks.
+    - Built and led implementation of new features using React, TypeScript, Next.js, and GraphQL with comprehensive test coverage.
   technologies:
     - ReactJS/HTML
     - GraphQL
