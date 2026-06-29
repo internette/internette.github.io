@@ -103,6 +103,9 @@ h4 {
   .printable {
     display: inline;
   }
+  .contact-info {
+    display: block;
+  }
   main {
     width: 100%;
   }
@@ -118,7 +121,7 @@ h4 {
     h3 {
       font-size: 1em;
       margin-bottom: 0;
-      padding: 0 0 0.5rem;
+      padding-bottom: 0.2rem;
       &.res-cat {
         margin-top: 0;
         margin-bottom: 0;
@@ -134,15 +137,19 @@ h4 {
         &:nth-child(7) {
           padding-bottom: 0.7em;
         }
+        &:last-of-type {
+          margin-top: 0.5rem;
+        }
       }
     }
-    .summary {
-      margin: 0;
+    .resume-links {
+      margin: 0.5rem 0;
       padding: 0;
+      display: none;
     }
-    h3 .printable:last-child {
-      display: block;
-      margin-top: 0.2em;
+    .summary {
+      margin: 0.5rem 0;
+      padding: 0;
     }
     ul li:before {
         box-shadow: 
@@ -187,23 +194,22 @@ h4 {
         text-align: left;
       }
       .exp h4 {
-        margin-bottom: 0;
+        margin: 0;
+        padding: 0;
       }
       ul {
-        margin-bottom: 0;
+        margin: 0;
+        padding: 0;
         li {
           font-size: 0.8em;
           margin-bottom: 0;
-          margin-top: 0.3em;
+          margin-top: 0;
         }
       }
     }
     .exp {
-      .resp ul li:first-child {
-        padding-top: 0.5em;
-      }
       h4:first-child {
-        padding-top: 0.5em;
+        padding-top: 0.15rem;
       }
     }
     > .post {
