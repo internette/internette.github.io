@@ -1,0 +1,19 @@
+name: Linkedin Marketing Workflow
+
+on:
+    schedule:
+        # Make it run every day at 12:00
+        - cron: '0 12 * * *'
+    workflow_dispatch:
+jobs:
+  linkedin-marketing-workflow:
+    name: Does a linked in post using your rss feed
+    runs-on: ubuntu-latest
+    steps:
+        - uses: actions/checkout@v2
+        - uses: p4p1/linkedin-marketing-workflow@main
+        with:
+            # Replace with your rss feed link
+            rss_feed: "https://acjanus.com/feed.xml"
+            LINKEDIN_SECRET: ${{secrets.LINKEDIN_MARKETING_WORKFLOW_SECRET}}
+            GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
