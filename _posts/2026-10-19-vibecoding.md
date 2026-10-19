@@ -3,7 +3,7 @@ layout: post
 title:  "Vibe Coding as a Senior Software Engineer: Lessons from Building a Custom Lifting App"
 permalink: /vibecoding-review/
 date:   '2026-10-19'
-categories: works
+categories: home blog
 excerpt: 'Frustrated by lifting apps that lacked personality and flexibility and kept core features behind expensive subscriptions, a beginner lifter who works as a software engineer decided to build their own workout tracker that could grow with their fitness journey. The project was also a chance to test "vibe coding" on a real-world project as a senior engineer and see what it can and cannot do.'
 ---
 For a long time, I've wanted to start lifting weights, but I've always struggled to actually get started. As a software engineer, my first instinct was to find an app to track my workouts and progress. However, as I browsed existing options, I ran into a common set of frustrating issues: most lifting apps lacked personality and customization, were inflexible, and locked core features behind steep subscription paywalls. For someone just starting out, this experience felt neither approachable nor encouraging.
