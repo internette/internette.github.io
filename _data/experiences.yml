@@ -29,8 +29,8 @@
     end: JULY 2026
   responsibilities:
     - Led design system architecture as the sole frontend specialist on a backend-heavy team, building 10 core components with documentation and contribution patterns from the ground up.
-    - Owned and shipped a full application redesign, introducing Next.js and migrating 30 existing components to build on the new design system.
-    - Drove AI-assisted frontend workflows with Copilot, speeding up component development and the design system migration.
+    - Consolidated 25+ font styles into 12 on a 4px type scale and cut 34+ unique color values to 10 standardized tokens.
+    - Owned and shipped a full application redesign, introducing Next.js and using Copilot-assisted workflows to migrate 30 existing components onto the new design system.
     - Built full-stack features in TypeScript, React, Node.js, and Redis, partnering with backend engineers to deliver them end to end.
 - role: Software Engineer II
   company: LuLuLemon
