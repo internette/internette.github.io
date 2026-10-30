@@ -40,7 +40,7 @@
     - Cut open tech-debt tickets 9% across the org as design system liaison for Checkout and My Bag, introducing epic-level change tracking that kept a 15+ component library aligned across teams.
     - Led a Cypress E2E testing initiative and held Checkout and My Bag at 75% Jest coverage, mentoring a junior engineer through implementation and the handoff to QA.
     - Ran accessibility audits and added Google Lighthouse to the CI/CD pipeline, enforcing WCAG compliance automatically.
-    - Shipped Checkout features in React, TypeScript, Next.js, and GraphQL, and owned production incidents on call, writing postmortems and runbooks.
+    - Led development of and shipped Save for Later in React, TypeScript, Next.js, and GraphQL, and owned production incidents on call, writing postmortems and runbooks.
   technologies:
     - ReactJS/HTML
     - GraphQL
