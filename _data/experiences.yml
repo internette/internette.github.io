@@ -9,13 +9,13 @@
 #     -
 
 - role: Senior Software Engineer
-  company: PeopleTech (Client: Boeing)
+  company: "PeopleTech (Client: Boeing)"
   date:
     start: JULY 2026
     end: PRESENT
   responsibilities:
     - Led the creation of full-stack applications for Boeing, using React and Next.js on the frontend and Express on the backend.
-    - Created a dashboard that consolidated applications across Boeing, unifying MySQL, PostgreSQL, CSV, and PDF data sources into a single source of user-based metrics for BDS programs.
+    - Created a dashboard that consolidated applications across Boeing, unifying MySQL, PostgreSQL, CSV, and PDF data sources into a single source of user-based metrics for Boeing Defense, Space & Security (BDS) programs.
     - Standardized the data analytics implementation across 10 teams into a single, reusable dashboard page, establishing shared KPI definitions across BDS programs.
   technologies:
     - React
