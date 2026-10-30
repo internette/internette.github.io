@@ -11,7 +11,7 @@
 - role: Senior Software Engineer
   company: "PeopleTech (Client: Boeing)"
   date:
-    start: JULY 2026
+    start: JUL 2026
     end: PRESENT
   responsibilities:
     - Led development of full-stack React, Next.js, and Express applications, delivering a single source of truth for business and usage analytics across Boeing Defense, Space & Security (BDS) programs.
@@ -26,7 +26,7 @@
   company: XFactor
   date:
     start: JAN 2025
-    end: JULY 2026
+    end: JUL 2026
   responsibilities:
     - Led design system architecture as the sole frontend specialist on a backend-heavy team, building 10 core components and cutting font styles from 25+ to 12 (4px scale) and colors from 34+ to 10.
     - Owned and shipped a full application redesign, introducing Next.js and using Copilot to migrate 30 existing components onto the new design system, cutting UI bugs by 16%.
@@ -34,8 +34,8 @@
 - role: Software Engineer II
   company: lululemon
   date:
-    start: JULY 2019
-    end: SEPT 2024
+    start: JUL 2019
+    end: SEP 2024
   responsibilities:
     - Led and shipped Save for Later in React, TypeScript, Next.js, and GraphQL, with 32% of shoppers moving cart items into it at launch.
     - Cut open tech-debt tickets 9% across the org as design system liaison for Checkout and My Bag, introducing epic-level change tracking that kept a 15+ component library aligned across teams.
