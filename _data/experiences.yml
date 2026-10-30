@@ -11,7 +11,7 @@
 - role: Senior Software Engineer
   company: "PeopleTech (Client: Boeing)"
   date:
-    start: JULY 2026
+    start: JUL 2026
     end: PRESENT
   responsibilities:
     - Led development of full-stack React, Next.js, and Express applications, delivering a single source of truth for business and usage analytics across Boeing Defense, Space & Security (BDS) programs.
@@ -26,7 +26,7 @@
   company: XFactor
   date:
     start: JAN 2025
-    end: JULY 2026
+    end: JUL 2026
   responsibilities:
     - Led design system architecture as the sole frontend specialist on a backend-heavy team, building 10 core components and cutting font styles from 25+ to 12 (4px scale) and colors from 34+ to 10.
     - Owned and shipped a full application redesign, introducing Next.js and using Copilot to migrate 30 existing components onto the new design system, cutting UI bugs by 16%.
@@ -34,8 +34,8 @@
 - role: Software Engineer II
   company: lululemon
   date:
-    start: JULY 2019
-    end: SEPT 2024
+    start: JUL 2019
+    end: SEP 2024
   responsibilities:
     - Led and shipped Save for Later in React, TypeScript, Next.js, and GraphQL, with 32% of shoppers moving cart items into it at launch.
     - Cut open tech-debt tickets 9% across the org as design system liaison for Checkout and My Bag, introducing epic-level change tracking that kept a 15+ component library aligned across teams.
@@ -58,10 +58,9 @@
     start: MAY 2017
     end: MAY 2019
   responsibilities:
-    - Developed interactive producer sites using Craft CMS, React, Vue, PHP, and Twig.
-    - Debugged and optimized JavaScript-based games.
-    - Built internal tools and expanded PHP-based APIs; introduced GraphQL and ElasticSearch.
-    - Ensured accessibility standards and led audits.
+    - Made the educational content guide for 40+ producers searchable by introducing GraphQL and ElasticSearch to the PHP API layer, and built internal tools on the expanded APIs.
+    - Built 10+ interactive producer sites with Craft CMS, React, Vue, PHP, and Twig, and optimized 5 JavaScript games to reduce crashes, improve visual scaling, and speed up load times across devices.
+    - Led accessibility audits across 14 existing products and set accessibility standards for new producer sites.
   technologies:
     - Vue, React, JavaScript
     - GraphQL
@@ -78,9 +77,7 @@
     start: APR 2016
     end: FEB 2017
   responsibilities:
-    - Ported features from Angular 1 to Angular 2; integrated Angular 2 into existing build chain.
-    - Wrote semantic HTML, CSS, and JavaScript with full Jasmine test coverage.
-    - Collaborated with designers to deliver responsive, branded user interfaces.
+    - Migrated features from Angular 1 to Angular 2 and integrated it into the existing build chain, with full Jasmine test coverage.
   technologies:
     - jQuery
     - JavaScript (ES5/ES6)
