@@ -1,6 +1,6 @@
 <div class="exp">
   {% assign exp = include.exp %}
-  <h4>{{exp.role}}, {{exp.company}}<span class="print"> | {{exp.date.start}} - {% if exp.date.end %}{{exp.date.end}}{% else %} PRESENT{% endif %}</span></h4>
+  <h4><span class="role">{{exp.role}}, <span class="company">{{exp.company}}</span></span><span class="date">{{exp.date.start}} - {% if exp.date.end %}{{exp.date.end}}{% else %}PRESENT{% endif %}</span></h4>
   <div class="resp">
     <ul>
       {% for resp in exp.responsibilities %}
@@ -18,6 +18,5 @@
         </li>
       {% endif %}
     </ul>
-    <span class="screen">{{exp.date.start}} - {% if exp.date.end %}{{exp.date.end}} {% else %} PRESENT{% endif %}</span>
   </div>
 </div>
