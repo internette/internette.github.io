@@ -37,10 +37,10 @@
     start: JULY 2019
     end: SEPT 2024
   responsibilities:
-    - Led and shipped Save for Later in React, TypeScript, Next.js, and GraphQL, with 32% of shoppers moving cart items into it at launch; also owned on-call incident response and postmortems.
+    - Led and shipped Save for Later in React, TypeScript, Next.js, and GraphQL, with 32% of shoppers moving cart items into it at launch.
     - Cut open tech-debt tickets 9% across the org as design system liaison for Checkout and My Bag, introducing epic-level change tracking that kept a 15+ component library aligned across teams.
     - Drove a Cypress E2E testing initiative and held Checkout and My Bag at 75% Jest coverage, mentoring a junior engineer through implementation and the handoff to QA.
-    - Ran accessibility audits and added Google Lighthouse to the CI/CD pipeline, enforcing WCAG compliance automatically.
+    - Ran accessibility audits, added Google Lighthouse to CI/CD to enforce WCAG compliance automatically, and owned on-call incident response and postmortems.
   technologies:
     - ReactJS/HTML
     - GraphQL
