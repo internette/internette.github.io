@@ -16,6 +16,7 @@
   responsibilities:
     - Led the creation of full-stack applications for Boeing, using React and Next.js on the frontend and Express on the backend.
     - Created a dashboard that consolidated applications across Boeing, streamlining the consumption of 4 types of data sources.
+    - Standardized the data analytics implementation across 10 different teams.
   technologies:
     - React
     - NextJS
