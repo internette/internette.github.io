@@ -59,7 +59,7 @@
     end: MAY 2019
   responsibilities:
     - Made the educational content guide for 40+ producers searchable by introducing GraphQL and ElasticSearch to the PHP API layer, and built internal tools on the expanded APIs.
-    - Built 10+ interactive producer sites and optimized 5 JavaScript games for children's programming using Craft CMS, React, Vue, PHP, and Twig.
+    - Built 10+ interactive producer sites with Craft CMS, React, Vue, PHP, and Twig, and optimized 5 JavaScript games to reduce crashes, improve visual scaling, and speed up load times across devices.
     - Led accessibility audits and set accessibility standards for producer sites.
   technologies:
     - Vue, React, JavaScript
