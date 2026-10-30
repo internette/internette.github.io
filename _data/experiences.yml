@@ -32,17 +32,15 @@
     - Owned and shipped a full application redesign, introducing Next.js and using Copilot to migrate 30 existing components onto the new design system, cutting UI bugs by 16%.
     - Cut session-related bugs 30% by standardizing session management with spec-driven development, defining login and logout expectations and resolving 8 user experience gaps.
 - role: Software Engineer II
-  company: LuLuLemon
+  company: lululemon
   date:
     start: JULY 2019
     end: SEPT 2024
   responsibilities:
-    - Served as Design System liaison across Checkout and My Bag teams, introducing epic-level design system change tracking to proactively reduce tech debt and keep a 15+ component library aligned across teams.
-    - Led E2E testing initiative using Cypress — mentored a junior engineer through implementation and owned the full handoff to QA, including documentation and onboarding.
-    - Maintained 75% test coverage across Checkout and My Bag with Jest; championed testing culture on a 5-person team within a 3-team org.
-    - Conducted accessibility audits and introduced Google Lighthouse into the CI/CD pipeline, ensuring ongoing WCAG compliance without manual intervention.
-    - Participated in on-call rotation with full incident ownership — responding to production issues, writing postmortems, and maintaining runbooks.
-    - Built and led implementation of new features using React, TypeScript, Next.js, and GraphQL with comprehensive test coverage.
+    - Served as design system liaison for Checkout and My Bag, introducing epic-level change tracking that kept a 15+ component library aligned across teams and reduced tech debt.
+    - Led a Cypress E2E testing initiative and held Checkout and My Bag at 75% Jest coverage, mentoring a junior engineer through implementation and the handoff to QA.
+    - Ran accessibility audits and added Google Lighthouse to the CI/CD pipeline, enforcing WCAG compliance automatically.
+    - Shipped Checkout features in React, TypeScript, Next.js, and GraphQL, and owned production incidents on call, writing postmortems and runbooks.
   technologies:
     - ReactJS/HTML
     - GraphQL
