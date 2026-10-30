@@ -58,10 +58,9 @@
     start: MAY 2017
     end: MAY 2019
   responsibilities:
-    - Developed interactive producer sites using Craft CMS, React, Vue, PHP, and Twig.
-    - Debugged and optimized JavaScript-based games.
-    - Built internal tools and expanded PHP-based APIs; introduced GraphQL and ElasticSearch.
-    - Ensured accessibility standards and led audits.
+    - Introduced GraphQL and ElasticSearch to the PHP API layer, expanding the APIs and building internal tools on top of them.
+    - Built interactive producer sites and optimized JavaScript games for children's programming using Craft CMS, React, Vue, PHP, and Twig.
+    - Led accessibility audits and set accessibility standards for producer sites.
   technologies:
     - Vue, React, JavaScript
     - GraphQL
