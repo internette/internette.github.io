@@ -9,6 +9,18 @@
 #     -
 
 - role: Senior Software Engineer
+  company: PeopleTech (Client: Boeing)
+  date:
+    start: JULY 2026
+    end: PRESENT
+  responsibilities:
+    - Build full-stack features for Boeing using React and Next.js on the frontend and Express on the backend.
+  technologies:
+    - React
+    - NextJS
+    - Express
+
+- role: Senior Software Engineer
   company: XFactor
   date:
     start: JAN 2025
