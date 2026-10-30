@@ -77,7 +77,7 @@
     start: APR 2016
     end: FEB 2017
   responsibilities:
-    - Migrated features from Angular 1 to Angular 2 and integrated the new framework into the existing build chain, with full Jasmine test coverage.
+    - Migrated 6 templates and 14 components from Angular 1 to Angular 2 and integrated the new framework into the existing build chain, with full Jasmine test coverage.
   technologies:
     - jQuery
     - JavaScript (ES5/ES6)
