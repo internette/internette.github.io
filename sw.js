@@ -1,7 +1,7 @@
 // You have to supply a name for your cache, this will
 // allow us to remove an old one to avoid hitting disk
 // space limits and displaying old resources
-var cache_name = 'acjanus-1.0';
+var cache_name = 'acjanus-2.0';
 
 // Assesto catche
 var assets_to_cache = [
@@ -34,9 +34,29 @@ self.addEventListener('install', function (event) {
         return cache.addAll(assets_to_cache);
       })
   );
+  self.skipWaiting();
 });
 
 self.addEventListener('fetch', function (event) {
+  // Pages go network first so content updates show up right away;
+  // the cached copy is only used when offline
+  if (event.request.mode === 'navigate') {
+    event.respondWith(
+      fetch(event.request)
+        .then(function (response) {
+          var response_to_cache = response.clone();
+          caches.open(cache_name)
+            .then(function (cache) {
+              cache.put(event.request, response_to_cache);
+            });
+          return response;
+        })
+        .catch(function () {
+          return caches.match(event.request);
+        })
+    );
+    return;
+  }
   event.respondWith(
     caches.match(event.request)
       .then(function (response) {
@@ -62,7 +82,7 @@ self.addEventListener('fetch', function (event) {
 });
 
 self.addEventListener('activate', function (event) {
-  var cache_white_list = ['acjanus-1.0'];
+  var cache_white_list = [cache_name];
   event.waitUntil(
     caches.keys().then(function (cache_names) {
       return Promise.all(
@@ -72,6 +92,8 @@ self.addEventListener('activate', function (event) {
           }
         })
       );
+    }).then(function () {
+      return self.clients.claim();
     })
   );
 });
