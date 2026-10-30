@@ -9,10 +9,24 @@
 #     -
 
 - role: Senior Software Engineer
+  company: "PeopleTech (Client: Boeing)"
+  date:
+    start: JULY 2026
+    end: PRESENT
+  responsibilities:
+    - Led development of full-stack React, Next.js, and Express applications, delivering a single source of truth for business and usage analytics across Boeing Defense, Space & Security (BDS) programs.
+    - Built a centralized dashboard unifying MySQL, PostgreSQL, CSV, and PDF data sources, onboarding 4 BDS programs at launch with 3 more planned by year-end.
+    - Standardized analytics instrumentation across 10 teams into a reusable dashboard page, establishing shared KPI definitions and consistent reporting.
+  technologies:
+    - React
+    - NextJS
+    - Express
+
+- role: Senior Software Engineer
   company: XFactor
   date:
     start: JAN 2025
-    end: PRESENT
+    end: JULY 2026
   responsibilities:
     - Led design system architecture and cross-team adoption as the sole frontend specialist on a backend-heavy engineering team — establishing component standards, documentation, and contribution patterns from the ground up.
     - Owned and shipped a full application redesign, introducing Next.js and migrating the existing codebase to align with the new design system.
