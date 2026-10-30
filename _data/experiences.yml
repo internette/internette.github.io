@@ -12,7 +12,7 @@
   company: XFactor
   date:
     start: JAN 2025
-    end: PRESENT
+    end: JULY 2026
   responsibilities:
     - Led design system architecture and cross-team adoption as the sole frontend specialist on a backend-heavy engineering team — establishing component standards, documentation, and contribution patterns from the ground up.
     - Owned and shipped a full application redesign, introducing Next.js and migrating the existing codebase to align with the new design system.
