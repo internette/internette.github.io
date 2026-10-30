@@ -58,7 +58,7 @@
     start: MAY 2017
     end: MAY 2019
   responsibilities:
-    - Introduced GraphQL and ElasticSearch to the PHP API layer, unlocking search capabilities the platform previously lacked, and built internal tools on the expanded APIs.
+    - Made the educational content guide for 40+ producers searchable by introducing GraphQL and ElasticSearch to the PHP API layer, and built internal tools on the expanded APIs.
     - Built interactive producer sites and optimized JavaScript games for children's programming using Craft CMS, React, Vue, PHP, and Twig.
     - Led accessibility audits and set accessibility standards for producer sites.
   technologies:
