@@ -30,7 +30,7 @@
   responsibilities:
     - Led design system architecture as the sole frontend specialist on a backend-heavy team, building 10 core components and consolidating 25+ font styles into 12 on a 4px type scale and 34+ colors into 10 tokens.
     - Owned and shipped a full application redesign, introducing Next.js and using Copilot-assisted workflows to migrate 30 existing components onto the new design system, cutting UI bugs by 16%.
-    - Standardized session management across the stack with spec-driven development, defining login and logout expectations, resolving 8 user experience gaps, and cutting session-related bugs by 30%.
+    - Cut session-related bugs 30% by standardizing session management with spec-driven development, defining login and logout expectations and resolving 8 user experience gaps.
 - role: Software Engineer II
   company: LuLuLemon
   date:
